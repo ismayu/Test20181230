@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -pthread   CMakeFiles/Demo.dir/main.cc.o  -o Demo -rdynamic 
